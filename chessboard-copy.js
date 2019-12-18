@@ -22,3 +22,7 @@ console.log(board);
 }
 
 chessboard(size);
+
+//this is magic
+
+//git this is a new line
