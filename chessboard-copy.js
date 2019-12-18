@@ -1,3 +1,5 @@
+let dSize = "three"
+
 let size = parseInt(process.argv.slice(2));
 const chessboard = (boardsize) => {
 let whitesqr = " ";
@@ -20,12 +22,6 @@ board = board + newline;
 }
 console.log(board);
 }
-
 chessboard(size);
 
-//this is magic
-
-//git this is a new line up to date
-
-
-//testetsudhflksdhlfjksxflkjgdlkjfs
+//working branch
