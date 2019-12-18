@@ -1,4 +1,4 @@
-let dSize = "threes"
+let dSize = "threesy"
 
 let size = parseInt(process.argv.slice(2));
 const chessboard = (boardsize) => {
