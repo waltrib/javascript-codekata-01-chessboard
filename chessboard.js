@@ -22,3 +22,5 @@ console.log(board);
 }
 
 chessboard(size);
+
+// in terminal = node chessboard.js 7
