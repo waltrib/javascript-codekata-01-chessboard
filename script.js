@@ -21,7 +21,7 @@ board = board + newline;
 console.log(board);
 }
 
-chessboard("null");
+console.log("null");
 chessboard(4);
 
 
