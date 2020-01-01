@@ -23,7 +23,4 @@ console.log(board);
 
 chessboard(4);
 
-console.log(yea)
-console.log(ohYea)
-console.log(wowYea)
 // in terminal = node chessboard.js 7
