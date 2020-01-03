@@ -21,7 +21,7 @@ board = board + newline;
 console.log(board);
 }
 
-chessboard(3);
+chessboard(2);
 
 
 // in terminal = node chessboard.js 7
